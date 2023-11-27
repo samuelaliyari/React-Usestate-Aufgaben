@@ -1,0 +1,24 @@
+
+
+
+.formWrapper {
+    padding: 5%;
+    border: 1px solid orange;
+    width: 50%;
+    margin: 3rem auto;
+}
+
+.formWrapper form {
+    display: flex;
+    justify-content: center;
+    gap: 4%;
+}
+.formWrapper form  input{
+    width: 30%;
+    font-size: 1.2rem;
+}
+
+.formWrapper div {
+    text-align: left;
+    margin-top: 2rem;
+}

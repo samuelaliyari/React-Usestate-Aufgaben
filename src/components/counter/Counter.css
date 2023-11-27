@@ -1,0 +1,25 @@
+.counter  {
+    border: 1px solid orange;
+    padding: 5%;
+    width: 50%;
+    margin: 0 auto;
+}
+.counter  div{
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    gap: 2rem;
+    padding: 3%;
+    align-items: center;
+    font-size: 2rem;
+}
+.counter  div button{
+    width: 20%;
+    padding: 1%;
+}
+
+
+.counter > button {
+    width: 30%;
+    padding: 2%;
+}
